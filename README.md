@@ -34,5 +34,6 @@ Full Example Workflow:
 
 You modified in your code and you want to add and commmit to repo
 1.git add . && git commit -m "Comment"
+2.git push
 
 
