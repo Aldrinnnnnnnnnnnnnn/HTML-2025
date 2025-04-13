@@ -35,3 +35,7 @@ git commit -m ""
 git remote add origin https://github.com/Aldrinnnnnnnnnnnnnn/HTML-2025.git
 git push -u origin master
 
+You modified in your code and you want to add and commmit to repo
+1.git add . && git commit -m "Comment"
+
+
